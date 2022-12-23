@@ -2,7 +2,7 @@
 
 The documentation for this API is limited and the provided examples that I could find seemed to have a few headaches.
 
-The approach that seemed the most succesful was to use the requests library and loop through requests.
+The approach that seemed the most successful was to use the requests library and loop through requests.
 
 Requirements
   1. pandas
