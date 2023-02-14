@@ -5,7 +5,7 @@ from datetime import datetime
 ########update cnxn with your server information########
 #connect
 cnxn_str = (r"Driver={SQL Server};"
-            r"Server=ICF2110473\MSSQLSERVER01;"
+            r"Server=ICF######\MSSQLSERVER####;"
             r"database=OpenFEMA Data Sets;"
             "Trusted_Connection=yes;")
 
